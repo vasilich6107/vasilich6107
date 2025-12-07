@@ -13,9 +13,10 @@ I care about developer experience, clean architecture, and solving the hard UI p
 
 ## 🔥 Featured Projects
 
-<div align="center">
+<div>
 
 [ReactiveFromsGenerator](https://pub.dev/packages/reactive_forms_generator)
+
 [ReactiveFormsWidgets](https://github.com/artflutter/reactive_forms_widgets)
 
 </div>
