@@ -21,6 +21,14 @@ I care about developer experience, clean architecture, and solving the hard UI p
 
 </div>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=vasilich6107&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=8" alt="GitHub Trophies"/>
+
+</div>
+
 ## 🛠️ Tech Stack
 
 ### Languages
