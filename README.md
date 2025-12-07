@@ -11,7 +11,14 @@
 
 I care about developer experience, clean architecture, and solving the hard UI problems most teams avoid.
 
----
+## 🔥 Featured Projects
+
+<div align="center">
+
+[![ReactiveFromsGenerator](https://pub.dev/packages/reactive_forms_generator)]
+[![ReactiveFormsWidgets](https://github.com/artflutter/reactive_forms_widgets)]
+
+</div>
 
 ## 🛠️ Tech Stack
 
