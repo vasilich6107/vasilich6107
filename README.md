@@ -15,8 +15,8 @@ I care about developer experience, clean architecture, and solving the hard UI p
 
 <div align="center">
 
-[![ReactiveFromsGenerator](https://pub.dev/packages/reactive_forms_generator)]
-[![ReactiveFormsWidgets](https://github.com/artflutter/reactive_forms_widgets)]
+[ReactiveFromsGenerator](https://pub.dev/packages/reactive_forms_generator)
+[ReactiveFormsWidgets](https://github.com/artflutter/reactive_forms_widgets)
 
 </div>
 
